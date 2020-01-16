@@ -15,14 +15,14 @@ Route::post('/send','ContactController@send');
 //media routes
 Route::get('/media','MediaController@index');
 
-//products route
-Route::get('/product','ProductController@index');
+//Divisions route
+Route::get('/Divisions','DivisionController@index');
 
 //product  ..  routes
-Route::get('/Product','ProductController@index');
+// Route::get('/Product','ProductController@index');
 
 //product .. route
-Route::get('/Product','ProductController@index');
+// Route::get('/Product','ProductController@index');
 
 //product .. route
-Route::get('/Product','ProductController@index');
+// Route::get('/Product','ProductController@index');

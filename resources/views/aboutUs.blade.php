@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-	
+
 <head>
 		<meta charset="UTF-8">
 		<!-- For Resposive Device -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<!-- For IE -->  
+		<!-- For IE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 		<title> NA - Noor Al-Amana Pharmaceuticals &amp; Medical Supplies l.t.d </title>
 
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="images/Them-logo/Favicon-1.png">
-		
+
 		<!-- Main style sheet -->
 		<link rel="stylesheet" href="css/style.css">
 		<!-- responsive style sheet -->
@@ -33,8 +33,8 @@
 }
     </style>
 	<body>
-		
-	
+
+
 		<div class="main-page-wrapper">
 
 			<!-- Header Top _________________________________ -->
@@ -66,7 +66,7 @@
 
 			<!-- Menu + Banner _________________________________ -->
 			<div class="banner-ad-menu">
-				
+
 				<div class="theme-menu-fix-banner theme-menu-V-two-fix">
 					<div class="container">
 						<div class="row">
@@ -75,7 +75,7 @@
 									<a href="#"><img src="images/Them-logo/them-logo-1.png" alt="logo"></a>
 								</div>
 							</div>
-						
+
 							<div class="col-md-8 col-xs-3 th-main-menu-vtwo-width">
 								<!-- Theme Main Menu ____________________________ -->
 								<div class="main-menu theme-main-menu">
@@ -90,14 +90,14 @@
 												<span class="icon-bar tran3s"></span>
 											</button>
 										</div>
-										
+
 										<!-- Collect the nav links, forms, and other content for toggling -->
 										<div class="collapse navbar-collapse" id="navbar-collapse-1">
 											<ul class="nav navbar-nav">
 												<li><a href="index-3.html"> Home </a>
 												</li>
 												<li class=" active current-page-item Active-manu"><a href="about-us.html" class="tran3s">About Us</a></li>
-                                                
+
                                                 <!-- Media Page soon -->
                                                 <li class="dropdown-holder"><a href="soon.html">Media</a></li>
 
@@ -110,10 +110,10 @@
 														<li><a href="soon.html" class="tran3s">MEDICAL CONSUMABLES</a></li>
 
 														<!-- Product3 Page soon -->
-														<li><a href="soon.html" class="tran3s">MEDICAL EQUIPMENT</a></li>					
+														<li><a href="soon.html" class="tran3s">MEDICAL EQUIPMENT</a></li>
 																					</ul>
 												</li>
-											   
+
 												<li ><a href="contact-us.html">Contact Us</a></li>
 											</ul>
 										</div><!-- /.navbar-collapse -->
@@ -142,7 +142,7 @@
 				</div> <!-- /.Enar-page-banner -->
 
 			</div> <!-- /.banner-ad-menu -->
-			
+
 
 						<!-- About us ____________________________ -->
 						<section class="About-us-section">
@@ -158,17 +158,17 @@
 											<h3>About us</h3>
 											<span></span>
 											<p> •	Noor Al-Amana Company (NA Group) was established in 2018, our activities are importing and Distributing pharmaceutical, Medical Devices and Medical Equipment. <br>
-												•	Noor Al-Amana Company (NA Group) is one of the subsidiaries of 
+												•	Noor Al-Amana Company (NA Group) is one of the subsidiaries of
                                                 <a href="http://dawadigroup.com/" style="color: black" target="_blank">Dawadi Group</a> Holding Company, a pioneer in all commercial, industrial and service activities with more than 40 years of experience in Libya. <br>
 												•	Noor Al-Amana Company (NA) is strategically recognizing the importance of the growing business sector of medical supplies and Pharmaceuticals, therefore Our Business Expansion Planning Program focuses on the long-term development of a business into a multinational or global enterprise, Now NA Group. Started with Representing More Than 7 World Class Companies as a sole distributor.<br>
 												</p>
-											 
+
 										</div>
 									</div>
                                 </div>
 								</div>
 								</section>
-								
+
 
 <!-- sertficate -->
 
@@ -178,11 +178,11 @@
 				<div class="container">
 					<div class="row About-us-img-section">
 						<div class="col-md-6 col-xs-12 ">
-							 
+
 						</div>
-						  
+
 					</div>
- 
+
 					<div class="row About-us-text-section">
 						<div class="col-md-6 col-xs-12">
 							<div class="About-us-text">
@@ -318,14 +318,14 @@
 			</div>
 		</section>
 
-			 
-			 
-			 
+
+
+
 
 			<!-- home Footer section ____________________________ -->
 			<footer class="them-footer-section">
-				 
-				
+
+
 				<div class="footer-section">
 					<div class="container">
 						<div class="row">
@@ -350,7 +350,7 @@
 									</ul>
 								</div>
 							</div>
-							
+
 							<div class="col-md-4 col-xs-6 footer-item">
 								<div class="footer-item-two">
 									<h3>Our Address</h3>
@@ -373,9 +373,9 @@
 								<div class="col-xs-6">
 									<div class="clear-fix">
 										<div class="float-right privacy-item">
-											<h6>Privacy & Policy</h6> | <h6><a href="#">FAQ’s</a></h6> | <h6><a href="#">Shop</a></h6> 
+											<h6>Privacy & Policy</h6> | <h6><a href="#">FAQ’s</a></h6> | <h6><a href="#">Shop</a></h6>
 										</div>
-									</div>	
+									</div>
 								</div>
 							</div>
 						</div>
@@ -384,7 +384,7 @@
 			</footer> <!-- /.them-footer-section -->
 
 		</div> <!-- /.main-page-wrapper -->
-		
+
 
 		<!-- Scroll Top Button -->
 		<button class="scroll-top tran7s p-color-bg">
