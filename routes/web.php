@@ -15,8 +15,13 @@ Route::post('/send','ContactController@send');
 //media routes
 Route::get('/media','MediaController@index');
 
+<<<<<<< HEAD
 //products route
 // Route::get('/product','ProductController@index');
+=======
+//Divisions route
+Route::get('/Divisions','DivisionController@index');
+>>>>>>> 1e56e7d8d14fad39cde33fec1d247d3bf8adc7ff
 
 //product  ..  routes
 // Route::get('/Product','ProductController@index');

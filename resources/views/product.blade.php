@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-	
+
 <head>
 		<meta charset="UTF-8">
 		<!-- For Resposive Device -->
@@ -12,12 +12,12 @@
 
 
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="images/Them-logo/Favicon-1.png">
-		
+		<link rel="icon" type="image/png" sizes="56x56" href="{{asset('images/Them-logo/Favicon-1.png')}}">
+
 		<!-- Main style sheet -->
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="{{asset('css/style.css')}}">
 		<!-- responsive style sheet -->
-		<link rel="stylesheet" href="css/responsive.css">
+		<link rel="stylesheet" href="{{asset('css/responsive.css')}}">
 
 		<!-- Fix Internet Explorer ______________________________________-->
 
@@ -33,9 +33,9 @@
 	background-size: cover;
 }
     </style>
-	
+
 	<body>
-	
+
 		<div class="main-page-wrapper">
 
 			<!-- Header Top _________________________________ -->
@@ -67,7 +67,7 @@
 
 			<!-- Menu + Banner _________________________________ -->
 			<div class="banner-ad-menu">
-				
+
 				<div class="theme-menu-fix-banner theme-menu-V-two-fix">
 					<div class="container">
 						<div class="row">
@@ -76,7 +76,7 @@
 									<a href="index-3.html"><img src="images/Them-logo/them-logo-1.png" alt="logo"></a>
 								</div>
 							</div>
-						
+
 							<div class="col-md-8 col-xs-3 th-main-menu-vtwo-width">
 								<!-- Theme Main Menu ____________________________ -->
 								<div class="main-menu theme-main-menu">
@@ -91,17 +91,17 @@
 												<span class="icon-bar tran3s"></span>
 											</button>
 										</div>
-										
+
 										<!-- Collect the nav links, forms, and other content for toggling -->
 										<div class="collapse navbar-collapse" id="navbar-collapse-1">
 											<ul class="nav navbar-nav">
 												<li><a href="index-3.html"> Home </a>
 												</li>
 												<li><a href="about-us.html" class="tran3s">About Us</a></li>
-                                                
+
 												<!-- Media Page soon -->
 												<li class="dropdown-holder"><a href="soon.html">Media</a></li>
-												
+
 
 												<li class="dropdown-holder active current-page-item Active-manu"><a>Divisions</a>
 													<ul class="sub-menu">
@@ -114,7 +114,7 @@
   														<!-- Product3 Page soon -->
                                                         <li><a href="soon.html" class="tran3s">MEDICAL EQUIPMENT</a></li>													</ul>
 												</li>
-											   
+
 												<li><a href="contact-us.html">Contact Us</a></li>
 											</ul>
 										</div><!-- /.navbar-collapse -->
@@ -143,7 +143,7 @@
 				</div> <!-- /.Enar-page-banner -->
 
 			</div> <!-- /.banner-ad-menu -->
-			
+
 			<!-- Shop ____________________________ -->
 			<section class="shop-section">
 				<div class="container">
@@ -158,7 +158,7 @@
 											</div>
 											<div class="single-Text-item">
 												<h5> Herbal Medicines </h5>
-												
+
 											</div>
 										</div> <!-- /.single-item-Wrapper-->
 									</div>
@@ -192,7 +192,7 @@
 											</div>
 											<div class="single-Text-item">
 												<h5> Infection </h5>
-												
+
 										</div> <!-- /.single-item-Wrapper-->
 									</div>
                                     </div>
@@ -204,7 +204,7 @@
 											</div>
 											<div class="single-Text-item">
 												<h5> Diabetes &amp; Cardiovascular </h5>
-												
+
 											</div>
 										</div> <!-- /.single-item-Wrapper-->
 									</div>
@@ -249,7 +249,7 @@
 											</div>
 											<div class="single-Text-item">
 												<h5> Vitamines &amp; Minerals </h5>
-												
+
 											</div>
 										</div> <!-- /.single-item-Wrapper-->
 									</div>
@@ -267,14 +267,14 @@
 							</div>
 						</div>
 
-						
+
 					</div>
 				</div>
 			</section>
 
 		<!-- home Footer section ____________________________ -->
 		<footer class="them-footer-section">
-				 
+
 			<div class="footer-section">
 				<div class="container">
 					<div class="row">
@@ -299,7 +299,7 @@
 								</ul>
 							</div>
 						</div>
-						
+
 						<div class="col-md-4 col-xs-6 footer-item">
 							<div class="footer-item-two">
 								<h3>Our Address</h3>
@@ -322,9 +322,9 @@
 							<div class="col-xs-6">
 								<div class="clear-fix">
 									<div class="float-right privacy-item">
-										<h6>Privacy & Policy</h6> | <h6><a href="#">FAQ’s</a></h6> | <h6><a href="#">Shop</a></h6> 
+										<h6>Privacy & Policy</h6> | <h6><a href="#">FAQ’s</a></h6> | <h6><a href="#">Shop</a></h6>
 									</div>
-								</div>	
+								</div>
 							</div>
 						</div>
 					</div>
@@ -334,7 +334,7 @@
 
 	</div> <!-- /.main-page-wrapper -->
 
- 	
+
 
 	<!-- Scroll Top Button -->
 	<button class="scroll-top tran7s p-color-bg">
@@ -345,38 +345,38 @@
 	 <div id="loader-wrapper">
 		<div id="loader"></div>
 	</div>
-	
+
 
 
 		<!-- js file -->
 		<!-- Main js file/jquery -->
-		<script src="vendor/jquery-2.2.3.min.js"></script>
+		<script src="{{asset('vendor/jquery-2.2.3.min.js')}}"></script>
 
 
 		<!-- bootstrap-select.min.js -->
-		<script src="vendor/bootstrap-select-1.10.0/dist/js/bootstrap-select.min.js"></script>
+		<script src="{{asset('vendor/bootstrap-select-1.10.0/dist/js/bootstrap-select.min.js')}}"></script>
 		<!-- bootstrap js -->
-		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		<script src="{{asset('vendor/bootstrap/js/bootstrap.min.js')}}"></script>
 		<!-- camera js -->
-		<script src="vendor/Camera-master/scripts/camera.min.js"></script>
-		<script src="vendor/Camera-master/scripts/jquery.easing.1.3.js"></script>
+		<script src="{{asset('vendor/Camera-master/scripts/camera.min.js')}}"></script>
+		<script src="{{asset('vendor/Camera-master/scripts/jquery.easing.1.3.js')}}"></script>
 		<!-- Owl carousel -->
-		<script src="vendor/OwlCarousel2/dist/owl.carousel.min.js"></script>
+		<script src="{{asset('vendor/OwlCarousel2/dist/owl.carousel.min.js')}}"></script>
 		<!-- appear & countTo -->
-		<script src="vendor/jquery.appear.js"></script>
-		<script src="vendor/jquery.countTo.js"></script>
+		<script src="{{asset('vendor/jquery.appear.js')}}"></script>
+		<script src="{{asset('vendor/jquery.countTo.js')}}"></script>
 		<!-- fancybox -->
-		<script src="vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+		<script src="{{asset('vendor/fancybox/dist/jquery.fancybox.min.js')}}"></script>
 		<!-- Gallery - isotop -->
-		<script type="text/javascript" src="vendor/isotope.pkgd.min.js"></script>
+		<script type="{{asset('text/javascript" src="vendor/isotope.pkgd.min.js')}}"></script>
 		<!-- WOW js -->
-		<script type="text/javascript" src="vendor/WOW-master/dist/wow.min.js"></script>
+		<script type="{{asset('text/javascript" src="vendor/WOW-master/dist/wow.min.js')}}"></script>
 		<!-- js ui -->
-		<script src="vendor/jquery-ui/jquery-ui.min.js"></script>
+		<script src="{{asset('vendor/jquery-ui/jquery-ui.min.js')}}"></script>
 		<!-- Style js -->
-		<script src="js/custom.js"></script>
+		<script src="{{asset('js/custom.js')}}"></script>
 		<!-- map script js -->
-		<script type="text/javascript" src="js/map-script.js"></script>
+		<script type="text/javascript" src="{{asset('js/map-script.js')}}"></script>
 
 	</body>
 
