@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-	
+
 <head>
 		<meta charset="UTF-8">
 		<!-- For Resposive Device -->
@@ -13,7 +13,7 @@
 
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" sizes="56x56" href="images/Them-logo/Favicon-1.png">
-		
+
 		<!-- Main style sheet -->
 		<link rel="stylesheet" href="css/style.css">
 		<!-- responsive style sheet -->
@@ -34,10 +34,10 @@
 	background-size: cover;
 }
     </style>
-	
+
 	<body>
 <<<<<<< HEAD
-	
+
 		<!-- <h3 class="text-center" style="padding:180px;">This page is being prepared.</h3> -->
 
 		<div class="main-page-wrapper">
@@ -74,7 +74,7 @@
 
 			<!-- Menu + Banner _________________________________ -->
 			<div class="banner-ad-menu">
-				 
+
 				<div class="theme-menu-fix-banner theme-menu-V-two-fix">
 					<div class="container">
 						<div class="row">
@@ -83,7 +83,7 @@
 									<a href="#"><img src="images/Them-logo/them-logo-1.png" alt="logo"></a>
 								</div>
 							</div>
-						
+
 							<div class="col-md-8 col-xs-3 th-main-menu-vtwo-width">
 								<!-- Theme Main Menu ____________________________ -->
 								<div class="main-menu theme-main-menu">
@@ -98,14 +98,14 @@
 												<span class="icon-bar tran3s"></span>
 											</button>
 										</div>
-										
+
 										<!-- Collect the nav links, forms, and other content for toggling -->
 										<div class="collapse navbar-collapse" id="navbar-collapse-1">
 											<ul class="nav navbar-nav">
 												<li><a href="index-3.html"> Home </a>
 												</li>
 												<li><a href="about-us.html" class="tran3s">About Us</a></li>
-                                                
+
                                                 <li class=" active current-page-item Active-manu"><a href="media.html">Media</a>
 												</li>
 
@@ -117,7 +117,7 @@
 
                                                          <li><a href="product3.html" class="tran3s">MEDICAL EQUIPMENT</a></li>													</ul>
 												</li>
-											   
+
 												<li><a href="contact-us.html">Contact Us</a></li>
 											</ul>
 										</div><!-- /.navbar-collapse -->
@@ -147,7 +147,7 @@
 				</div> <!-- /.Enar-page-banner -->
 
 			</div> <!-- /.banner-ad-menu -->
-			
+
 			<!-- Projects V-1 ____________________________ -->
 			<section class="home-gallery" >
 				<div class="container">
@@ -176,7 +176,7 @@
 									</div>
 								</div> <!-- End of .single_item_wrapper -->
 							</div> <!-- End of .isotop-item -->
-							
+
 							<!-- Single Item -->
 							<div class="isotop-item Business Market Training">
 								<div class="single_item_wrapper">
@@ -186,7 +186,7 @@
 									</div>
 								</div> <!-- End of .single_item_wrapper -->
 							</div> <!-- End of .isotop-item -->
-							
+
 							<!-- Single Item -->
 							<div class="isotop-item Market">
 								<div class="single_item_wrapper">
@@ -196,7 +196,7 @@
 									</div>
 								</div> <!-- End of .single_item_wrapper -->
 							</div> <!-- End of .isotop-item -->
-							
+
 							<!-- Single Item -->
 							<div class="isotop-item Business Growth Training">
 								<div class="single_item_wrapper">
@@ -206,7 +206,7 @@
 									</div>
 								</div> <!-- End of .single_item_wrapper -->
 							</div> <!-- End of .isotop-item -->
-							
+
 							<!-- Single Item -->
 							<div class="isotop-item Business Finance Growth Training">
 								<div class="single_item_wrapper">
@@ -216,7 +216,7 @@
 									</div>
 								</div> <!-- End of .single_item_wrapper -->
 							</div> <!-- End of .isotop-item -->
-							
+
 							<!-- Single Item -->
 							<div class="isotop-item Finance Market Growth Training">
 								<div class="single_item_wrapper">
@@ -256,7 +256,7 @@
 									</div>
 								</div> <!-- End of .single_item_wrapper -->
 							</div> <!-- End of .isotop-item -->
-							
+
 						</div> <!-- End of .gallery_item_wrapper -->
 					</div> <!-- End of .WORK-item_wrapper -->
 				</div>
@@ -264,7 +264,7 @@
 
 			<!-- home Footer section ____________________________ -->
 			<footer class="them-footer-section" >
-				 
+
 				<div class="footer-section">
 					<div class="container">
 						<div class="row">
@@ -289,7 +289,7 @@
 									</ul>
 								</div>
 							</div>
-							
+
 							<div class="col-md-4 col-xs-6 footer-item">
 								<div class="footer-item-two">
 									<h3>Our Address</h3>
@@ -312,9 +312,9 @@
 								<div class="col-xs-6">
 									<div class="clear-fix">
 										<div class="float-right privacy-item">
-											<h6>Privacy & Policy</h6> | <h6><a href="#">FAQ’s</a></h6> | <h6><a href="#">Shop</a></h6> 
+											<h6>Privacy & Policy</h6> | <h6><a href="#">FAQ’s</a></h6> | <h6><a href="#">Shop</a></h6>
 										</div>
-									</div>	
+									</div>
 								</div>
 							</div>
 						</div>
@@ -323,7 +323,7 @@
 			</footer> <!-- /.them-footer-section -->
 
 		</div> <!-- /.main-page-wrapper -->
-		
+
 
 		<!-- Scroll Top Button -->
 <<<<<<< HEAD
