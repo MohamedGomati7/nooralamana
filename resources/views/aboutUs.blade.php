@@ -11,12 +11,12 @@
 		<title> NA - Noor Al-Amana Pharmaceuticals &amp; Medical Supplies l.t.d </title>
 
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="images/Them-logo/Favicon-1.png">
+		<link rel="icon" type="image/png" sizes="56x56" href="{{asset('images/Them-logo/Favicon-1.png')}}">
 		
 		<!-- Main style sheet -->
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="{{asset('css/style.css')}}">
 		<!-- responsive style sheet -->
-		<link rel="stylesheet" href="css/responsive.css">
+		<link rel="stylesheet" href="{{asset('css/responsive.css')}}">
 
 		<!-- Fix Internet Explorer ______________________________________-->
 
@@ -399,29 +399,29 @@
 
 		<!-- js file -->
 		<!-- Main js file/jquery -->
-		<script src="vendor/jquery-2.2.3.min.js"></script>
+		<script src="{{asset('vendor/jquery-2.2.3.min.js')}}"></script>
 		<!-- bootstrap-select.min.js -->
-		<script src="vendor/bootstrap-select-1.10.0/dist/js/bootstrap-select.min.js"></script>
+		<script src="{{asset('vendor/bootstrap-select-1.10.0/dist/js/bootstrap-select.min.js')}}"></script>
 		<!-- bootstrap js -->
-		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		<script src="{{asset('vendor/bootstrap/js/bootstrap.min.js')}}"></script>
 		<!-- camera js -->
-		<script src="vendor/Camera-master/scripts/camera.min.js"></script>
-		<script src="vendor/Camera-master/scripts/jquery.easing.1.3.js"></script>
+		<script src="{{asset('vendor/Camera-master/scripts/camera.min.js')}}"></script>
+		<script src="{{asset('vendor/Camera-master/scripts/jquery.easing.1.3.js')}}"></script>
 		<!-- Owl carousel -->
-		<script src="vendor/OwlCarousel2/dist/owl.carousel.min.js"></script>
+		<script src="{{asset('vendor/OwlCarousel2/dist/owl.carousel.min.js')}}"></script>
 		<!-- appear & countTo -->
-		<script src="vendor/jquery.appear.js"></script>
-		<script src="vendor/jquery.countTo.js"></script>
+		<script src="{{asset('vendor/jquery.appear.js')}}"></script>
+		<script src="{{asset('vendor/jquery.countTo.js')}}"></script>
 		<!-- fancybox -->
-		<script src="vendor/fancybox/dist/jquery.fancybox.min.js"></script>
+		<script src="{{asset('vendor/fancybox/dist/jquery.fancybox.min.js')}}"></script>
 		<!-- Gallery - isotop -->
-		<script type="text/javascript" src="vendor/isotope.pkgd.min.js"></script>
+		<script type="{{asset('text/javascript" src="vendor/isotope.pkgd.min.js')}}"></script>
 		<!-- WOW js -->
-		<script type="text/javascript" src="vendor/WOW-master/dist/wow.min.js"></script>
+		<script type="{{asset('text/javascript" src="vendor/WOW-master/dist/wow.min.js')}}"></script>
 		<!-- Style js -->
-		<script src="js/custom.js"></script>
+		<script src="{{asset('js/custom.js')}}"></script>
 		<!-- map script js -->
-		<script type="text/javascript" src="js/map-script.js"></script>
+		<script type="text/javascript" src="{{asset('js/map-script.js')}}"></script>
 
 	</body>
 </html>

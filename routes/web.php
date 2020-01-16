@@ -16,13 +16,13 @@ Route::post('/send','ContactController@send');
 Route::get('/media','MediaController@index');
 
 //products route
-Route::get('/product','ProductController@index');
+// Route::get('/product','ProductController@index');
 
 //product  ..  routes
-Route::get('/Product','ProductController@index');
+// Route::get('/Product','ProductController@index');
 
 //product .. route
-Route::get('/Product','ProductController@index');
+// Route::get('/Product','ProductController@index');
 
 //product .. route
-Route::get('/Product','ProductController@index');
+// Route::get('/Product','ProductController@index');
